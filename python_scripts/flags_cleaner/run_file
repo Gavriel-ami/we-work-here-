@@ -1,0 +1,3 @@
+run in the cli : 
+
+python3 clean_flag.py "C:/projects/AMI WE WORK HERE/flags_output_new.csv"
